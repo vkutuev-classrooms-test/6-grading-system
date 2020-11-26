@@ -1,0 +1,3 @@
+[submodule "6-grading-tests"]
+	path = 6-grading-tests
+	url = https://github.com/vkutuev-classrooms-test/6-grading-tests.git
